@@ -1,0 +1,12 @@
+{
+  "name": "say-headline",
+  "owner": { "name": "7Zenox" },
+  "plugins": [
+    {
+      "name": "say-headline",
+      "source": "./",
+      "description": "Speaks the one-line headline of each Claude reply out loud (Kokoro voice, macOS say fallback)."
+    }
+  ],
+  "description": "Speak the topic sentence of Claude Code replies."
+}

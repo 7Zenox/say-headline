@@ -1,0 +1,8 @@
+{
+  "name": "say-headline",
+  "version": "0.1.0",
+  "description": "Speaks the one-line headline of each Claude reply out loud with macOS say",
+  "author": { "name": "7Zenox" },
+  "repository": "https://github.com/7Zenox/say-headline",
+  "license": "MIT"
+}
